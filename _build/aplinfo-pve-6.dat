@@ -1,0 +1,44 @@
+Package: pve-web-news
+Description: News displayed on the admin interface
+  <b>Welcome</b> to the Proxmox Virtual Environment!<br><br>
+  For more information please visit our homepage at
+  <a href='http://www.proxmox.com' target='_blank'>www.proxmox.com</a>
+
+Package: lxcdebtpl
+Version: 20200823
+Type: lxc
+OS: debian
+Section: 1keyddhubfree
+Maintainer: github.com/minlearn <minlearn@minlearn.org>
+Architecture: amd64
+Location: lxcdebtpl.tar.xz
+md5sum: fd684b65390f44a02252a87a56ad66f2
+sha512sum: 7c98944ee2ee1260aab3c06cd0f1c0c28e9c857906ce041b15926cbacaa5de2391312f5d9c64ee27c2f72be8b8d61eeb9a03c7e0fc5545b68ce68203703c0510
+Infopage: https://github.com/minlearn/1keyddhubfree-lxcdebtpl
+Description: LXC default image for lxcdebtpl
+
+Package: qemudebtpl
+Version: 20200823
+Type: qemu
+OS: debian
+Section: 1keyddhubfree
+Maintainer: github.com/minlearn <minlearn@minlearn.org>
+Architecture: amd64
+Location: qemudebtpl.tar.xz
+md5sum: 613074707edf81a0d6654a929ce486ed
+sha512sum: 4de411f78af61a7d317348e96262ee326c00be70cd46b2674084fa53cff80112a7045e3f1f7c6d88ea20efd401ca8c9ffe25e7229228b1d28f9601648f10d18f
+Infopage: https://github.com/minlearn/1keyddhubfree-qemudebtpl
+Description: QEMU default image for qemudebtpl
+
+Package: lxcdebtpl
+Version: 20200823
+Type: lxc
+OS: debian
+Section: 1keyddhubfree
+Maintainer: github.com/minlearn <minlearn@minlearn.org>
+Architecture: arm64
+Location: lxcdebtpl_arm64.tar.xz
+md5sum: feafe118db18e012ce0f1d360e9b0ab6
+sha512sum: e88a00752075d6af8e34dc7f0b69218a26e7c84091495c3bc1f1a8a3aa2daf744417982de0b44cd2b04f962e77630438751ec571f8573e4460c85757513a3c59
+Infopage: https://github.com/minlearn/1keyddhubfree-lxcdebtpl
+Description: LXC default image for lxcdebtpl
